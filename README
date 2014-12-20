@@ -1,0 +1,5 @@
+Steps:-
+1.	install graphviz.
+2.	compile and execute the code
+3.	$ dot -Tpng treewithparent.gv -o treewithparent.png  --> type this in the terminal
+4.	check out treewithparent.png
